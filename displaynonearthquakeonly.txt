@@ -1,0 +1,298 @@
+Feed Title: USGS All Earthquakes, Past Week
+Updated: 2015-12-06T14:39:53Z
+Author: U.S. Geological Survey, http://earthquake.usgs.gov/
+Identification: http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.atom
+Icon: http://earthquake.usgs.gov/favicon.ico
+
+
+Quarry Blasts Events:
+Title: M 1.2 Quarry Blast - 11km SSW of Lucerne Valley, California
+ID: urn:earthquake-usgs-gov:ci:37498600
+Published: 2015-12-04T23:28:00.175Z
+Coordinates: 34.3538333 -117.0161667
+Elevation/Depth: 1730
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.1 Quarry Blast - 29km SE of Virginia City, Montana
+ID: urn:earthquake-usgs-gov:mb:80110549
+Published: 2015-12-05T00:03:22.540Z
+Coordinates: 45.0713333 -111.7333333
+Elevation/Depth: -3500
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 2.0 Quarry Blast - 4km ENE of Butte, Montana
+ID: urn:earthquake-usgs-gov:mb:80110524
+Published: 2015-12-04T20:56:28.340Z
+Coordinates: 46.0235 -112.4826667
+Elevation/Depth: 2000
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.2 Quarry Blast - 5km NE of San Ysidro, California
+ID: urn:earthquake-usgs-gov:ci:37498336
+Published: 2015-12-04T00:08:07.364Z
+Coordinates: 32.5876667 -117.0051667
+Elevation/Depth: 210
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.3 Quarry Blast - 5km SE of Home Gardens, California
+ID: urn:earthquake-usgs-gov:ci:37498320
+Published: 2015-12-03T23:55:19.583Z
+Coordinates: 33.8433333 -117.4918333
+Elevation/Depth: 540
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.4 Quarry Blast - 3km SE of Home Gardens, California
+ID: urn:earthquake-usgs-gov:ci:37280823
+Published: 2015-12-03T22:29:02.994Z
+Coordinates: 33.8601667 -117.4945
+Elevation/Depth: 500
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 0.9 Quarry Blast - 9km SW of Menifee, California
+ID: urn:earthquake-usgs-gov:ci:37280775
+Published: 2015-12-03T20:37:59.921Z
+Coordinates: 33.6813333 -117.2221667
+Elevation/Depth: 550
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.2 Quarry Blast - 9km NNW of Big Bear City, California
+ID: urn:earthquake-usgs-gov:ci:37280727
+Published: 2015-12-03T19:56:51.969Z
+Coordinates: 34.339 -116.8846667
+Elevation/Depth: 1600
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.1 Quarry Blast - 6km NNW of Boron, California
+ID: urn:earthquake-usgs-gov:ci:37280455
+Published: 2015-12-03T01:10:06.779Z
+Coordinates: 35.044 -117.6768333
+Elevation/Depth: -260
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.3 Quarry Blast - 27km SE of Virginia City, Montana
+ID: urn:earthquake-usgs-gov:mb:80110019
+Published: 2015-12-02T23:12:20.040Z
+Coordinates: 45.1023333 -111.716
+Elevation/Depth: -3500
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 0.7 Quarry Blast - 2km SE of Home Gardens, California
+ID: urn:earthquake-usgs-gov:ci:37280359
+Published: 2015-12-02T21:25:29.092Z
+Coordinates: 33.8673333 -117.5088333
+Elevation/Depth: 540
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.4 Quarry Blast - 5km SE of Home Gardens, California
+ID: urn:earthquake-usgs-gov:ci:37280351
+Published: 2015-12-02T21:12:14.670Z
+Coordinates: 33.8448333 -117.4911667
+Elevation/Depth: 570
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 0.9 Quarry Blast - 7km ENE of Three Forks, Montana
+ID: urn:earthquake-usgs-gov:mb:80110059
+Published: 2015-12-03T00:25:23.060Z
+Coordinates: 45.9113333 -111.4636667
+Elevation/Depth: 2000
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.0 Quarry Blast - 6km W of Woodcrest, California
+ID: urn:earthquake-usgs-gov:ci:37280343
+Published: 2015-12-02T21:03:51.470Z
+Coordinates: 33.8855 -117.4165
+Elevation/Depth: 550
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.7 Quarry Blast - 4km E of Butte, Montana
+ID: urn:earthquake-usgs-gov:mb:80109994
+Published: 2015-12-02T22:51:09.440Z
+Coordinates: 45.997 -112.4768333
+Elevation/Depth: 2000
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.3 Quarry Blast - 8km ENE of Lebec, California
+ID: urn:earthquake-usgs-gov:ci:37280319
+Published: 2015-12-02T19:59:50.440Z
+Coordinates: 34.858 -118.7741667
+Elevation/Depth: 940
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.3 Quarry Blast - 7km ESE of Chula Vista, California
+ID: urn:earthquake-usgs-gov:ci:37280071
+Published: 2015-12-02T02:05:21.221Z
+Coordinates: 32.5958333 -116.9836667
+Elevation/Depth: -3660
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.3 Quarry Blast - 5km S of Mojave, California
+ID: urn:earthquake-usgs-gov:ci:37280055
+Published: 2015-12-01T23:30:55.843Z
+Coordinates: 35.0111667 -118.1703333
+Elevation/Depth: 1040
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 0.9 Quarry Blast - 2km SE of Home Gardens, California
+ID: urn:earthquake-usgs-gov:ci:37279983
+Published: 2015-12-01T22:23:54.678Z
+Coordinates: 33.8643333 -117.5075
+Elevation/Depth: -2740
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.5 Quarry Blast - 7km SSE of Home Gardens, California
+ID: urn:earthquake-usgs-gov:ci:37279927
+Published: 2015-12-01T22:12:45.600Z
+Coordinates: 33.8211667 -117.4826667
+Elevation/Depth: 570
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 2.5 Quarry Blast - 32km S of Plummer, Idaho
+ID: urn:earthquake-usgs-gov:mb:80109909
+Published: 2015-12-03T18:06:11.141Z
+Coordinates: 47.0458333 -116.8523333
+Elevation/Depth: 2000
+Occurred: Past Week
+Magnitude: Magnitude 2
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.2 Quarry Blast - 13km SE of Tehachapi, California
+ID: urn:earthquake-usgs-gov:ci:37279471
+Published: 2015-12-01T20:10:30.267Z
+Coordinates: 35.0585 -118.3423333
+Elevation/Depth: 910
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.2 Quarry Blast - 9km NNW of Big Bear City, California
+ID: urn:earthquake-usgs-gov:ci:37279455
+Published: 2015-12-01T18:15:44.185Z
+Coordinates: 34.3416667 -116.8751667
+Elevation/Depth: 1600
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 0.9 Quarry Blast - 9km SW of Menifee, California
+ID: urn:earthquake-usgs-gov:ci:37279447
+Published: 2015-12-01T18:11:08.703Z
+Coordinates: 33.6816667 -117.2266667
+Elevation/Depth: 600
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M 0.9 Quarry Blast - 5km E of Butte, Montana
+ID: urn:earthquake-usgs-gov:mb:80109819
+Published: 2015-11-30T20:38:36.060Z
+Coordinates: 46.0005 -112.4686667
+Elevation/Depth: 2000
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.2 Quarry Blast - 46km NNW of Los Algodones, B.C., MX
+ID: urn:earthquake-usgs-gov:ci:37279423
+Published: 2015-11-30T21:39:31.622Z
+Coordinates: 33.0528333 -114.9795
+Elevation/Depth: 150
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Explosions Events:
+Title: M 1.6 Explosion - 0km NNW of Granite Falls, Washington
+ID: urn:earthquake-usgs-gov:uw:61095262
+Published: 2015-12-05T20:47:04.670Z
+Coordinates: 48.0858333 -121.9695
+Elevation/Depth: -23
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 2.3 Explosion - 3km SSE of Princeton, Canada
+ID: urn:earthquake-usgs-gov:uw:61095252
+Published: 2015-12-04T22:45:25.260Z
+Coordinates: 49.4301667 -120.495
+Elevation/Depth: -20
+Occurred: Past Week
+Magnitude: Magnitude 2
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.6 Explosion - 5km WSW of Warden, Washington
+ID: urn:earthquake-usgs-gov:uw:61094977
+Published: 2015-12-02T23:23:21.320Z
+Coordinates: 46.948 -119.1111667
+Elevation/Depth: -16
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.8 Explosion - 37km E of Goldendale, Washington
+ID: urn:earthquake-usgs-gov:uw:61094972
+Published: 2015-12-02T23:19:11.680Z
+Coordinates: 45.7976667 -120.3468333
+Elevation/Depth: -16
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.5 Explosion - 24km ESE of Napavine, Washington
+ID: urn:earthquake-usgs-gov:uw:61094962
+Published: 2015-12-02T21:56:13.892Z
+Coordinates: 46.5141667 -122.5953333
+Elevation/Depth: -18
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.6 Explosion - 12km ESE of Enumclaw, Washington
+ID: urn:earthquake-usgs-gov:uw:61094957
+Published: 2015-12-02T21:30:42.300Z
+Coordinates: 47.1708333 -121.8355
+Elevation/Depth: -18
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 1.3 Explosion - 8km NNE of Fern Prairie, Washington
+ID: urn:earthquake-usgs-gov:uw:61094887
+Published: 2015-12-02T01:55:18.690Z
+Coordinates: 45.708 -122.3555
+Elevation/Depth: -23
+Occurred: Past Week
+Magnitude: Magnitude 1
+------------------------------------------------------------------------------------------------------------------------
+Title: M 2.5 Explosion - 2km ESE of Princeton, Canada
+ID: urn:earthquake-usgs-gov:uw:61094852
+Published: 2015-12-02T22:04:43.367Z
+Coordinates: 49.4533333 -120.4785
+Elevation/Depth: -24
+Occurred: Past Week
+Magnitude: Magnitude 2
+------------------------------------------------------------------------------------------------------------------------
+Snow Avalanches Events:
+Title: M -0.7 Snow Avalanche - 20km ESE of Three Rivers, Oregon
+ID: urn:earthquake-usgs-gov:uw:61094807
+Published: 2015-12-01T16:57:01.630Z
+Coordinates: 43.7188333 -121.2556667
+Elevation/Depth: -24
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
+Title: M -0.6 Snow Avalanche - 20km ENE of La Pine, Oregon
+ID: urn:earthquake-usgs-gov:uw:61094802
+Published: 2015-12-01T16:54:54.270Z
+Coordinates: 43.7136667 -121.2531667
+Elevation/Depth: -24
+Occurred: Past Week
+Magnitude: Magnitude 0
+------------------------------------------------------------------------------------------------------------------------
